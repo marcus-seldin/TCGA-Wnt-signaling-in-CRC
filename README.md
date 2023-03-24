@@ -5,4 +5,4 @@
 #### panTCGAseq_somaticMutations_CNV.RData - curated panTCGA RNA-seq and CNV variation data accessed from UCSC Xena on November 4 2022. 
 #### panTCGA_survival.txt - curated panTCGA Survival data data accessed from UCSC Xena on November 4 2022. 
 
-### R scripts to run analyses present in: 
+### R scripts to run analyses present in: looking up select gene sets based on TCGA survical in TCGA.R
