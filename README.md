@@ -1,4 +1,4 @@
-# TCGA-Wnt-signalign-in-CRC
+# TCGA-Wnt-signaling-in-CRC
 ## TCGA CRC analyses to invesitage pathway-specific relationships to traits
 
 ### Datasets used: https://drive.google.com/drive/folders/1hgn4ymZJR9VWRoNXpahXHeWex95DH7ZD?usp=sharing
